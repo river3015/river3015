@@ -10,11 +10,6 @@ PHPの割合が大きいですがLaravelの環境構築をしているリポジ�
 現在、自分のポートフォリオサイトを作りたいなと思い、[TechTrain](https://service.techtrain.dev/)というスクールでjavascript(React.js)を学習しています。
 
 # 職務経歴書
-## プロフィール
-* 本名: 相川 将宏(Masahiro Aikawa)
-* Qiita: [@riv_infra](https://qiita.com/riv_infra)
-* X: [@riv_infra](https://x.com/riv_infra)
-* connpass: [@river3015](https://connpass.com/user/river3015/)
 ## 概要
 クライアント企業に常駐し、社内インフラ運用業務に従事してきました。  
 定型業務や非定型の運用改善に取り組むなか、下記の課題がありました。  
